@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 - 💬 Ask anything me about python and i will help as i can.
 - 📫 How to reach me: anubenoy@mca.ajce.in
 - ⚡ Fun fact: i like to learn,read, everything related to tech.
+- Pray 🙏🏻, Hustle 😓, Focus 🧐, Optimism 😎, Discipline 🎓, Failure ⛔️, Risk 💥, Patience 😅, Criticism 😕, Persistence 🕰.
