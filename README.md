@@ -25,3 +25,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: anubenoy@mca.ajce.in
 - ⚡ Fun fact: i like to learn,read, everything related to tech.
 - Pray 🙏🏻, Hustle 😓, Focus 🧐, Optimism 😎, Discipline 🎓, Failure ⛔️, Risk 💥, Patience 😅, Criticism 😕, Persistence 🕰.
+
+<p align="center">
+  <img width="100%" src="https://github.com/alansmathew/alansmathew/raw/master/projects.gif" alt="pic image here" />
+</p>
