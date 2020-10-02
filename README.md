@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 </p>
 
 - 🔭 I’m currently working on NGMart project to find nearest grocery store and items.
-- 🌱 I’m currently learning eveytihing to be a develper.
-- 🤔 I’m looking for help with google api's to get results for shops neareast the goven place.
+- 🌱 I’m currently learning everything to be a developer.
+- 🤔 I’m looking for help with google api's to get results for shops neareast the given place.
 - 💬 Ask anything me about python and i will help as i can.
 - 📫 How to reach me: anubenoy@mca.ajce.in
-- ⚡ Fun fact: i like to learn,read, everything related to tech.
+- ⚡ Fun fact: i like to learn, read, everything related to tech.
 - Pray 🙏🏻, Hustle 😓, Focus 🧐, Optimism 😎, Discipline 🎓, Failure ⛔️, Risk 💥, Patience 😅, Criticism 😕, Persistence 🕰.
 <br><br>
 
