@@ -18,11 +18,11 @@ Here are some ideas to get you started:
   <img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" />
 </p>
 
-- 🔭 I’m currently working on NGMart project to find nearest grocery store and items.
-- 🌱 I’m currently learning everything to be a developer.
+- 🔭 I’m currently working on IOS and C# WPF applications.
+- 🌱 I’m currently learning everything to be a mobile developer.
 - 🤔 I’m looking for help with google api's to get results for shops neareast the given place.
 - 💬 Ask anything me about python and i will help as i can.
-- 📫 How to reach me: anubenoy@mca.ajce.in
+- 📫 How to reach me: abenoy2025@conestoga.on.ca
 - ⚡ Fun fact: i like to learn, read, everything related to tech.
 - Pray 🙏🏻, Hustle 😓, Focus 🧐, Optimism 😎, Discipline 🎓, Failure ⛔️, Risk 💥, Patience 😅, Criticism 😕, Persistence 🕰.
 <br><br>
